@@ -14,7 +14,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[zhangpillar](https://github.com/Gaohaoyang)
+* GitHub：[zhangpillar](https://github.com/zhangpillar)
 * email：1208699589@qq.com
 * [Weibo](http://weibo.com/)
 * [知乎](https://www.zhihu.com/people/xiaodong1314)
