@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "hello world!"
+date:   2019-09-30 
+categories: Java
+tags: Java
+excerpt: 创建博客第一篇文章，留个纪念吧。
+mathjax: true
+---
+
+
+```Java
+ public static void main(String[] args) throws Exception {
+        System.out.println("hello world!");
+    }
+```
+
